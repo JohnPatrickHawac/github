@@ -11,18 +11,19 @@
 <tr>
 
 <td>
-      <h2><font size="5">About who I Am<</font></h2>
+	<img src="C:\Users\PC\Documents\491349904_1023426335877201_4983719128173418800_n.png" width="125" height="150">
+      <h2><font size="5">About who I Am</font></h2>
             <p>I'm John Patrick A. Hawac</p>
 
 <ul>
-<li> I love to Sleep< /li>
+<li> I love to Sleep </li>
 <li> I don't like Sleeping </li>
 </ul>
 
 </td>
 
 <td>
-      <h2><font size="5">Contact Me</font></h2>
+      <h2><font size="5">Contact me to know me</font></h2>
 
 <label>Name:</label>
 <input type = "text" name = "" /><br>
@@ -40,4 +41,3 @@
 
 </table>
 </body>
-</html>
